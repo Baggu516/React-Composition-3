@@ -1,0 +1,18 @@
+
+.parent{
+  display: flex;
+  /* text-align:center ; */
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #61dafb;
+  width: 600px;
+  margin: 20px auto;
+  padding: 100px;
+}
+.tooltip-text{
+  text-decoration: underline;
+}
+.tooltip{
+  text-decoration: underline;
+}
